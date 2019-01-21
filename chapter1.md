@@ -16,7 +16,7 @@ A história da visualização de dados, de certa forma, está ligada a própria 
 E um dos gráficos mais famosos de todos os tempos, devido ao seu pioneirismo, já nasceu em finanças: Uma representação da balança comercial escocesa. Vamos observar esse gráfico e o que podemos aprender com ele ainda nos dias atuais. Além disso, vamos plotá-lo no nosso ambiente. 
 
 Você não deve ficar preocupado com a sintaxe que vamos usar aqui. O objetivo é mostrar o potencial do ggplot e fazer uma homenagem ao Playfair.
-![](https://s3-sa-east-1.amazonaws.com/rabeboulangerie.com.br/img/menu-bg.jpg)
+![](https://s3-sa-east-1.amazonaws.com/storagecursosfra/Screen+Shot+2019-01-21+at+12.53.13.png)
 
 
 
