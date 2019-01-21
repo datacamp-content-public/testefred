@@ -21,24 +21,24 @@ Você não deve ficar preocupado com a sintaxe que vamos usar aqui. O objetivo �
 
 
 `@instructions`
-
+Vamos carregar nosso conjunto de dados playfair.csv usando os comandos tradicionais do R.
 
 `@hint`
-
+Lembre-se do comando read.csv e use ele para ler o dataset playfair.csv
 
 `@pre_exercise_code`
 ```{r}
-
+library(ggplot2)		
 ```
 
 `@sample_code`
 ```{r}
-
+________ <- read.___("________.___")
 ```
 
 `@solution`
 ```{r}
-
+playfair <- read.csv("playfair.csv")
 ```
 
 `@sct`
